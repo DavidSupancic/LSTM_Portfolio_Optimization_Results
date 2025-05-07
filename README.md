@@ -21,3 +21,11 @@ img2 - SPY, Gold, Real estate, Long-term bonds
 img3 - XLK, XLF, XLE, XLV, XLI, XLY, XLP, XLU, XLB, Gold, Real estate, Long-term bonds
 	 - VIX
 	 - Sharpe ratio
+
+img4 - SPY, Short-term bonds, Medium-term bonds, Long-term bonds, Corporate bonds, Gold, 	   Real estate, Oil, Emerging markets, Euro stoxx 50
+	 - VIX, (MA21 - MA50) / MA50, 50 days historical Sharpe, 21-days Relative Strength Index (RSI)
+	 - Utility function (risk aversion=1)
+	 
+img5 - SPY, Short-term bonds, Medium-term bonds, Long-term bonds, Corporate bonds, Gold, 	   Real estate, Oil, Emerging markets, Euro stoxx 50
+	 - VIX, (MA21 - MA50) / MA50, 50 days historical Sharpe, 21-days Relative Strength Index (RSI)
+	 - Utility function (risk aversion=5)
