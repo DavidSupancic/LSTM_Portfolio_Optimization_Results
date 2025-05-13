@@ -16,6 +16,7 @@ img1 - SPY, Short-term bonds, Medium-term bonds, Long-term bonds, Corporate bond
 	 - Sharpe ratio
 	 
 img2 - SPY, Gold, Real estate, Long-term bonds
+	 - VIX
      - Sharpe ratio
 	 
 img3 - XLK, XLF, XLE, XLV, XLI, XLY, XLP, XLU, XLB, Gold, Real estate, Long-term bonds
